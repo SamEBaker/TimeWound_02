@@ -1,13 +1,15 @@
 # TimeWound_02
  https://samebaker.github.io/TimeWound_02/
- -Start or Any Key to join
- -V or A to select UI
- -LT or LShift to sprint
- -Y or Q to Drop Gears
+ -------------------------------------------------------------------------
+ - Controls-
+ - Start or Any Key to join
+ - V or A to select UI
+ - LT or LShift to sprint
+ - Y or Q to Drop Gears
  - RT or Space to Shoot Bullets
 --------------------------------------------------------------------------------
--Features Added-
--Big UI Fix (gamepad inputs) (some bugs)
+- Features Added-
+- Big UI Fix (gamepad inputs) (some bugs)
 - Fixed player camera/ rotation
 - Player death spawn room(pay to revive player)
 - Exit door to main menu
