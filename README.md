@@ -1,2 +1,29 @@
 # TimeWound_02
- 
+ https://samebaker.github.io/TimeWound_02/
+ -Start or Any Key to join
+ -V or A to select UI
+ -LT or LShift to sprint
+ -Y or Q to Drop Gears
+ - RT or Space to Shoot Bullets
+--------------------------------------------------------------------------------
+-Features Added-
+-Big UI Fix (gamepad inputs) (some bugs)
+- Fixed player camera/ rotation
+- Player death spawn room(pay to revive player)
+- Exit door to main menu
+- Main Menu scene
+- Join/Ready Up screen
+- Fixed split screen and filler 3 player screen
+- Fixed bullet spawn bug
+- Win and Lose screen
+- Play popup/ loading screen
+--------------------------------------------------------------------------
+- To Do-
+- Enemy AI
+- Level Layout (Add more puzzles/vaults)
+- Death room as a pressure plate to fix all players dead lose condition 
+- Random room spawn
+- 2v2 mode setup
+- Leaderboard
+- Add tips in loading screen and fix player ui to be smaller and have controls
+- 
